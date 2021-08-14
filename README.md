@@ -12,7 +12,7 @@ or hide encryption/decryption techniques which we are using in the application.
 That will make reverse engineering of the these components harder.
 Along with this, if you want to work on opencv, tensorflow..., you might use c++ there.
 
-# Getting data from json ( which has been passed from android) require 3 steps in c++
+# Getting data from json ( which has been passed from android) requires 3 steps in c++
 
     1. Get jclass of the object
     2. Get data field IDs of the object
